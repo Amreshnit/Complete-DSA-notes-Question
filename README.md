@@ -427,21 +427,3 @@ dsa-course@upi
 <br>
 <br>
 
-
-## 📘&nbsp; License
-
-The Whole content management system is released under the under terms of the [MIT License](LICENSE).
-
-
-## Connect with us  ~Prince
-
-<a href="https://telegram.me/helloworldbyprince"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/></a>
-<a href="https://www.linkedin.com/in/iamprince/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
-<a href="https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/youtube.png" alt="youtube" width="85"/></a>
-
-***Do star, fork and share the repo to show your support, it would help others too!***   <br>
- <br>
- Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***, ***[Telegram](https://telegram.me/helloworldbyprince)***
- 
- :heart: ***Thank you all for Forking this repository***  :heart:
-
